@@ -1,0 +1,41 @@
+D:\c#\MyDBSM\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.csproj.AssemblyReference.cache
+D:\c#\MyDBSM\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.Form1.resources
+D:\c#\MyDBSM\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.csproj.GenerateResource.cache
+D:\c#\MyDBSM\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\MyDBSM\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.AssemblyInfoInputs.cache
+D:\c#\MyDBSM\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.AssemblyInfo.cs
+D:\c#\MyDBSM\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.csproj.CoreCompileInputs.cache
+D:\c#\MyDBSM\MyDBSM\bin\Debug\net6.0-windows\MyDBSM.exe
+D:\c#\MyDBSM\MyDBSM\bin\Debug\net6.0-windows\MyDBSM.deps.json
+D:\c#\MyDBSM\MyDBSM\bin\Debug\net6.0-windows\MyDBSM.runtimeconfig.json
+D:\c#\MyDBSM\MyDBSM\bin\Debug\net6.0-windows\MyDBSM.dll
+D:\c#\MyDBSM\MyDBSM\bin\Debug\net6.0-windows\MyDBSM.pdb
+D:\c#\MyDBSM\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.dll
+D:\c#\MyDBSM\MyDBSM\obj\Debug\net6.0-windows\refint\MyDBSM.dll
+D:\c#\MyDBSM\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.pdb
+D:\c#\MyDBSM\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.genruntimeconfig.cache
+D:\c#\MyDBSM\MyDBSM\obj\Debug\net6.0-windows\ref\MyDBSM.dll
+D:\c#\MyDBSM\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.NameRequest.resources
+D:\c#\MyDBSM\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.TableProjectionForm.resources
+D:\c#\MyDBSM\MyDBSM\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\c#\MyDBSM\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.csproj.CopyComplete
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.Form1.resources
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.NameRequest.resources
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.dll
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\obj\Debug\net6.0-windows\refint\MyDBSM.dll
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.pdb
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\bin\Debug\net6.0-windows\MyDBSM.exe
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\bin\Debug\net6.0-windows\MyDBSM.deps.json
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\bin\Debug\net6.0-windows\MyDBSM.runtimeconfig.json
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\bin\Debug\net6.0-windows\MyDBSM.dll
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\bin\Debug\net6.0-windows\MyDBSM.pdb
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.csproj.CopyComplete
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\obj\Debug\net6.0-windows\MyDBSM.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Нова папка\IT_Labs\Lab1. Local version\MyDBSM\obj\Debug\net6.0-windows\ref\MyDBSM.dll

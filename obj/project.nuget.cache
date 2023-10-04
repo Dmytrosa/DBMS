@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1CBSn9f1SvlVQV/lo2OzT9VhmIO0f5LU3vrZYxLAt3fcgUOFtyB7jZun0J9Xvfm+leeCIAcNw9aQupvkihYJxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Нова папка\\IT_Labs\\Lab1. Local version\\MyDBSM\\MyDBSM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
